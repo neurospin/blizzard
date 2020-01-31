@@ -1,0 +1,32 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+:orphan:
+
+API documentation of *blizzard*
+================================
+
+
+Package to simplify the creation/exploration of a filesystem reference.
+The entities available are
+
+    * files.
+    * content.
+
+
+.. raw:: html
+
+    <br/>    <!-- Block section -->
+    <table border='1' class='docutils' style='width:100%'>
+    <colgroup><col width='25%'/><col width='75%'/></colgroup>
+    <tbody valign='top'>
+    <tr class='row-odd'>
+    <td><a class='reference internal' href='blizzard.elasticfs.html'><em>blizzard.elasticfs</em></a></td>
+    <td>
+        <p>This module provides tools to generate/request an ElasticSearch filesystem
+    reference.</p>
+    </td>
+    </tr>
+    </tbody>
+
+
+    </table>

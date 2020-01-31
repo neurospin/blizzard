@@ -1,0 +1,40 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+API documentation of BLIZZARD
+==============================
+
+This is the classes and functions reference in blizzard. Please refer to the gallery for further details, as the class and function raw specifications may not be enough to give full guidelines on their uses.
+
+.. rst-class:: documentation-contents
+
+  **Contents**:
+    * `blizzard <blizzard.html>`_
+
+.. raw:: html
+
+    <!-- Block section -->
+
+    <div class='container-fluid'>
+
+    <div class='float-left'>
+
+    <div class='row'>
+
+    <div class='col-md-4'>
+    <h3><a href='blizzard.html'>
+    blizzard
+    </a></h3>
+    <blockquote>
+        <p>Package to simplify the creation/exploration of a filesystem reference.
+    The entities available are</p>
+    <blockquote>
+    <ul class="simple">
+    <li>files.</li>
+    <li>content.</li>
+    </ul>
+    </blockquote>    </blockquote>
+    </div>
+
+    </div>
+    </div>
+    </div>

@@ -1,0 +1,25 @@
+..  blizzard documentation master file
+
+
+Package to generate/request a filesystem reference.
+
+
+
+.. toctree::
+    :maxdepth: 1
+    :hidden:
+
+    generated/installation
+    generated/documentation
+
+
+=======
+Search
+=======
+
+:ref:`search`
+
+
+
+
+
